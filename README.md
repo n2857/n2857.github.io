@@ -10,7 +10,7 @@ alsdkfjasldflkjdf
 
 Link: [html](/formeln.html)
 
-Link2: [Markdown](/formeln.md)
+Link2: [Markdown](/formel.md)
 
 ## Typographic replacements
 
