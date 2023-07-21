@@ -8,8 +8,9 @@ alsdkfjasldflkjdf
 > adlfk
 > 123
 
-Link: [This link](/formeln.html)
-Link2: [This link](/formeln.md)
+Link: [html](/formeln.html)
+
+Link2: [Markdown](/formeln.md)
 
 ## Typographic replacements
 
