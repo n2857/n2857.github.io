@@ -9,7 +9,7 @@ alsdkfjasldflkjdf
 > 123
 
 Link: [This link](/formeln.html)
-
+Link2: [This link](/formeln.md)
 
 ## Typographic replacements
 
