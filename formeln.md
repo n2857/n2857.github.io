@@ -2,6 +2,6 @@
 
 adsfads
 
-\\ \dot{varepsilon}_{kl}^\nu=\frac{s_kl}{2 \eta} \\
+\\[ \dot{varepsilon}_{kl}^\nu=\frac{s_kl}{2 \eta} \\]
 
 lksdjf
