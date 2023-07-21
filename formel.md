@@ -2,6 +2,6 @@
 
 adsfads
 
-\\[ \dot{varepsilon}_{kl}^\nu=\frac{s_kl}{2 \eta} \\]
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
 lksdjf
